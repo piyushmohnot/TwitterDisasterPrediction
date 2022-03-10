@@ -21,3 +21,10 @@ Tensorflow (BERT), numpy, pandas
 
 ### Competition link : https://www.kaggle.com/c/nlp-getting-started
 
+## Future Work
+Improving the Result
+The pre-trained model gives awesome results in a few epochs. but we can further improve the results by doing some tweakings such as:
+-> Use callbacks and dynamic learning rates for efficient training.
+-> Use a deeper BERT architecture ie. bert_large has more layers and it can learn comparatively more information
+-> Use Stacked BERT layers
+-> Add multiple CNN layers on top of BERT layers
