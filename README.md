@@ -20,7 +20,7 @@ IntelliJ DataSpell
 Tensorflow (BERT), numpy, pandas
 
 ### Competition link : https://www.kaggle.com/c/nlp-getting-started
-
+### My Kaggle Notebook : https://www.kaggle.com/piyushmohnot/twitterdisasterprediction-bert
 ## Future Work
 Improving the Result
 The pre-trained model gives awesome results in a few epochs. but we can further improve the results by doing some tweakings such as:
